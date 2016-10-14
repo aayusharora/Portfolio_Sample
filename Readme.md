@@ -12,4 +12,10 @@ npm install -g grunt-cli
 npm install
 
 ```
+- Move inside the root folder and run 
+```
+grunt 
+
+```
+
 - Open index.html
